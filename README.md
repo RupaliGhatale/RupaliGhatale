@@ -83,28 +83,6 @@ Passionate Java Full Stack Developer with **3+ years of experience** in designin
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RupaliGhatale&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RupaliGhatale&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupaliGhatale&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RupaliGhatale&theme=onedark&row=1&column=7" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
